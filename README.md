@@ -2,7 +2,7 @@
 
 I thought this would be a fun project to do, to refresh myself on web-scraping.
 
-It's fun to look at the Olympic medal counts as the games progress, but it
+It's fun to look at Olympic medal counts as the games progress, but it
 always kind of annoys me how countries are most often ranked. Most often, medal
 tally tables rank countries by the total number of gold medals, and only
 consider silver and bronze for breaking ties. Another common metric for ranking
