@@ -14,7 +14,7 @@ that such a metric is a more complete representation of a country's overall
 performance. Of course, I'm obviously biased, because this metric helps boost 
 Canada's position quite a bit. You're welcome Canada!
 
-Run the main script in your terminal and it will output a nice time-stamped
+Run the main script (olympic_medal.py) in your terminal and it will output a nice time-stamped
 table ranking countries by their weighted-total medal count.
 
 Some fun next steps would be to figure out how to implement this table +
