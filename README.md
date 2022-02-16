@@ -12,7 +12,7 @@ I think a better metric than both of these is a weighted-total. In my
 opinion, the most natural weighting is gold=3, silver=2, and bronze=1. I think
 that such a metric is a more complete representation of a country's overall
 performance. Of course, I'm obviously biased, because this metric helps boost 
-Canada's position quite a bit. You're welcome Canada!
+Canada's position quite a bit (at the time of publishing). You're welcome, Canada!
 
 Run the main script (olympic_medal.py) in your terminal and it will output a nice time-stamped
 table ranking countries by their weighted-total medal count.
